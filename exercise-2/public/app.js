@@ -10,5 +10,8 @@ angular.module('RoutingApp', ['ngRoute'])
       .otherwise({
         templateUrl: 'initial.html'
       });
-    $locationProvider.html5Mode(true);
+      $locationProvider.html5Mode({
+        enabled: true,
+        requireBase: false
+      });
   }]);
