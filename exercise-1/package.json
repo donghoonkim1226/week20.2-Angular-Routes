@@ -1,0 +1,16 @@
+{
+  "name": "exercise-1",
+  "version": "1.0.0",
+  "description": "week 21.2 Angular UI routes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Dong Hoon Kim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}
