@@ -1,0 +1,12 @@
+{
+  "name": "exercise-2",
+  "version": "1.0.0",
+  "description": "Exercise 2 - adding $locationProvider",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Dong Hoon Kim",
+  "license": "ISC"
+}
